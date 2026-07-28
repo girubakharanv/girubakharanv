@@ -60,25 +60,32 @@
 # 🛠 Tech Stack & Ecosystem
 
 <table>
-
 <tr>
 
-<td>
+<td width="50%" valign="top" style="padding:20px;">
 
 ### 💻 Languages & Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,nodejs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 </td>
 
-<td>
+<td width="50%" valign="top" style="padding:20px;">
 
 ### 🤖 AI • Data Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,pytorch" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=pytorch" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
 
@@ -98,13 +105,18 @@
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" style="padding:20px;" valign="top">
 
 ### 🛠 Tools & Platforms
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=postman" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 
@@ -115,22 +127,6 @@
 </tr>
 
 </table>
-
-# 🔥 Current Focus & Projects
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-00C2FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-7C4DFF?style=for-the-badge"/>
-
-</p>
-
----
 
 # 📊 Git Insights & Statistics
 
