@@ -63,34 +63,22 @@
 
 <tr>
 
-<td width="100%">
+<td>
 
 ### 💻 Languages & Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,nodejs" />
 </p>
 
 </td>
 
-</tr>
+<td>
 
-<tr>
-
-<td width="100%">
-
-### 🤖 AI • Data Analytics • Databases
+### 🤖 AI • Data Analytics
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=mysql,pytorch" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
 
@@ -110,23 +98,13 @@
 
 <tr>
 
-<td width="100%">
+<td colspan="2">
 
 ### 🛠 Tools & Platforms
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 
@@ -137,8 +115,6 @@
 </tr>
 
 </table>
-
----
 
 # 🔥 Current Focus & Projects
 
