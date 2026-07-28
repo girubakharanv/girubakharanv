@@ -59,28 +59,17 @@
 
 # 🛠 Tech Stack & Ecosystem
 
-<table align="center">
+<table align="center" width="100%">
+
 <tr>
 
 <td width="50%" align="center" valign="top">
 
 ### 💻 Languages & Frontend
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="55"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,nodejs&perline=6" />
+</p>
 
 </td>
 
@@ -88,31 +77,23 @@
 
 ### 🤖 AI • Data Analytics
 
-<br>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
 
-<br><br>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"/>
 
-&nbsp;&nbsp;
-
-<img src="https://img.icons8.com/color/96/power-bi.png" width="50"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/>
+</p>
 
 </td>
 
@@ -124,64 +105,19 @@
 
 ### 🛠 Tools & Platforms
 
-<br>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=idea" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman&perline=6"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
 
-</td>
-
-</tr>
-
-</table>
-
-# 📊 Git Insights & Statistics
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=girubakharanv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girubakharanv&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </td>
 
 </tr>
 
 </table>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=girubakharanv&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
