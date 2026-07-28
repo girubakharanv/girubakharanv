@@ -59,40 +59,60 @@
 
 # 🛠 Tech Stack & Ecosystem
 
-<table width="100%">
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Languages & Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,nodejs&perline=3" />
-</p>
+<br>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI • Data Analytics
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,pytorch" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
 
 <br><br>
 
-<img src="https://img.icons8.com/color/96/power-bi.png" height="48"/>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48"/>
+</td>
 
-</p>
+<td width="50%" align="center" valign="top">
+
+### 🤖 AI • Data Analytics
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+
+<br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="50"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/>
 
 </td>
 
@@ -104,13 +124,28 @@
 
 ### 🛠 Tools & Platforms
 
-<p>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+&nbsp;&nbsp;
 
-</p>
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=idea" width="55"/>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
 
 </td>
 
