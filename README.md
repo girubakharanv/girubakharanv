@@ -5,18 +5,34 @@
   <img src="assets/hero.png" width="100%" alt="Girubakharan V. — AI and Data Science student developer portfolio" />
 </p>
 
-<!-- Navigation -->
+<!-- QUICK NAVIGATION DOCK -->
 <p align="center">
-  <a href="#who-am-i">ABOUT</a> &nbsp;•&nbsp; 
-  <a href="#my-arsenal">ARSENAL</a> &nbsp;•&nbsp; 
-  <a href="#journey">JOURNEY</a> &nbsp;•&nbsp; 
-  <a href="#github-stats">STATS</a> &nbsp;•&nbsp; 
-  <a href="#featured-projects">PROJECTS</a> &nbsp;•&nbsp; 
-  <a href="#currently-building">BUILDING</a> &nbsp;•&nbsp; 
-  <a href="#get-in-touch">CONTACT</a>
+  <a href="#who-am-i"><kbd>&nbsp;ABOUT&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#my-arsenal"><kbd>&nbsp;SKILLS&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#journey"><kbd>&nbsp;JOURNEY&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#github-stats"><kbd>&nbsp;STATS&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#featured-projects"><kbd>&nbsp;PROJECTS&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#currently-building"><kbd>&nbsp;BUILDING&nbsp;</kbd></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#get-in-touch"><kbd>&nbsp;CONTACT&nbsp;</kbd></a>
 </p>
 
-<br>
+<!-- DYNAMIC TYPING HEADER -->
+<a href="https://github.com/girubakharanv">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Turning+ideas+into+practical+solutions;Full-Stack+Developer+%7C+Data+Analyst;B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- VOYAGE TELEMETRY BADGES -->
+<a href="https://github.com/girubakharanv">
+  <img src="https://komarev.com/ghpvc/?username=girubakharanv&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/girubakharanv?tab=followers">
+  <img src="https://img.shields.io/github/followers/girubakharanv?style=for-the-badge&color=8B0000&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+</a>
+
+<br/><br/>
 
 <!-- 2. WHO AM I? -->
 <a name="who-am-i"></a>
@@ -37,10 +53,16 @@
 
 <br>
 
-<!-- 3. MY ARArsenal -->
+<!-- 3. MY ARSENAL -->
 <a name="my-arsenal"></a>
 <p align="center">
   <img src="assets/arsenal.png" width="100%" alt="Girubakharan V. technology stack and skills" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,html,css,fastapi,nodejs,supabase,pytorch,docker,git,github,vscode,postman&theme=dark" alt="Skill Icons" />
+  </a>
 </p>
 
 <p align="center">
